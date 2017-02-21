@@ -23,7 +23,7 @@ License
 
 Auditlog is licensed under the MIT license (see the ```LICENSE``` file for details).
 
-Contribute
+Contributions
 ----------
 
 If you have great ideas for Auditlog, or if you like to improve something, feel free to fork this repository and/or create a pull request. I'm open for suggestions. If you like to discuss something with me (about Auditlog), please open an issue.
